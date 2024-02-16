@@ -1,0 +1,91 @@
+.nike-black-running-shoes-paragraph{
+  font-size: 30px;
+}
+.in-stock-paragraph{
+  color: green;
+}
+.add-to-card-button{
+  background-color: rgb(220, 217, 25);
+  color: black;
+  border: none;
+  height: 36px;
+  width: 150px;
+  border-radius: 20px;
+  margin-top: 12px;
+  margin-right: 12px;
+  transition: background-color 0.15s , opacity 0.15s;
+}
+.add-to-card-button:hover{
+  cursor: pointer;
+  background-color: rgb(230, 230, 16);
+}
+.add-to-card-button:active{
+  opacity: 0.8;
+}
+
+.buy-now-button{
+  background-color: rgb(220, 217, 25);
+  color: black;
+  border: none;
+  height: 36px;
+  width: 80px;
+  border-radius: 20px;
+}
+.buy-now-button:hover{
+  cursor: pointer;
+  background-color: rgb(230, 230, 16);
+}
+.back-button{
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  cursor: pointer;
+}
+.next-button{
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  cursor: pointer;
+}
+.text-underline-button{
+  background-color: white;
+  color: blue;
+  text-decoration: underline;
+  border: none;
+  cursor: pointer;
+}
+
+.stretch-button{
+  background-color: green;
+  color: white;
+  border: none;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  vertical-align: top;
+  transition: padding-left 0.15s,padding-right 0.15s,padding-top 0.15s,padding-bottom 0.15s;
+}
+.stretch-button:hover{
+  padding-left: 32px;
+  padding-right: 32px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.shadow-button{ 
+  background-color: green;
+  color: white;
+  border: none;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 8px;
+  cursor: pointer;
+  transition: box-shadow 0.15s;
+}
+.shadow-button:active{
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
+}

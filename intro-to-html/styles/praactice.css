@@ -1,0 +1,17 @@
+.p {
+  font-family: Montserrat;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.title{
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+}
+.description{
+  color: gray;
+  text-align: center;
+}
+.span-text{
+  text-decoration: underline;
+}
